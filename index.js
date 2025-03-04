@@ -1,6 +1,7 @@
-let movies = ['Shrek', 'Caddyshack', 'Batman', 'Interstellar', 'Scarface', 'Spaceballs', 'Alien', 'The Count of Monte Cristo'];
-
-for (let movie of movies) {
-	if (movie === 'The Last Airbender') break;
-	console.log(movie);
+// PART 1  – Loop through all numbers from 1 to 100.
+let n = 0;
+while (n <= 100) {
+    console.log(n);{
+        n++
+    }
 }
